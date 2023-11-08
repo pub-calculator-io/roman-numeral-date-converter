@@ -12,9 +12,8 @@ The Roman Numerals Date Converter can convert dates from Arabic numerals to Roma
 3. Activate the [Roman Numeral Date Converter](https://www.calculator.io/roman-numeral-date-converter/ "Roman Numeral Date Converter Homepage") plugin through the "Plugins" menu in WordPress.
 
 ## Usage
-* Add the shortcode `[ci_roman_numeral_date_converter]` to your page or post and configure default mortgage parameters.
-* If you are using widgets, just add the Roman Numeral Date Converter to the sidebar through the `Appearance -> Widgets -> Roman Numeral Date Converter` menu in WordPress.
-* Add the following code: `<?php display_ci_roman_numeral_date_converter(); ?>` to your template where you would like the Roman Numeral Date Converter to appear.
+* Add the shortcode `[ci_roman_numeral_date_converter]` to your page, post or sidebar.
+* Or add the following code: `<?php display_ci_roman_numeral_date_converter(); ?>` to your template where you would like the Roman Numeral Date Converter to appear.
 
 ## Libraries in Use
 1. https://mathjs.org/
