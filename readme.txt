@@ -1,6 +1,6 @@
 === Roman Numeral Date Converter by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: roman numeral date converter, arabic to roman date conversion, roman numeral date formats, date conversion to roman numerals, vinculum system in roman numerals, roman numeral history, maximum roman numeral date, custom date separators, converting historical dates
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
