@@ -1,4 +1,4 @@
-# Roman Numeral Date Converter WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Roman Numeral Date Converter Widget for WordPress
 
 The Roman Numerals Date Converter can convert dates from Arabic numerals to Roman numerals and back. Get any date in Roman or Arabic numerals.
 
