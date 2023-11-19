@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Roman Numeral Date Converter by www.calculator.io
+Plugin Name: CI Roman numeral date converter
 Plugin URI: https://www.calculator.io/roman-numeral-date-converter/
 Description: The Roman Numerals Date Converter can convert dates from Arabic numerals to Roman numerals and back. Get any date in Roman or Arabic numerals.
 Version: 1.0.0
