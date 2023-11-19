@@ -7,7 +7,7 @@ The Roman Numerals Date Converter can convert dates from Arabic numerals to Roma
 
 ## Installation
 
-1. [Download](https://github.com/pub-calculator-io/age-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
+1. [Download](https://github.com/pub-calculator-io/roman-numeral-date-converter/archive/refs/heads/master.zip) the ZIP file of this repository.
 2. Upload the /roman-numeral-date-converter-master/ folder to the /wp-content/plugins/ directory.
 3. Activate the [Roman Numeral Date Converter](https://www.calculator.io/roman-numeral-date-converter/ "Roman Numeral Date Converter Homepage") plugin through the "Plugins" menu in WordPress.
 
