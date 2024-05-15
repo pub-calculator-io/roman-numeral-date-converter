@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Roman Numeral D
 == Screenshots ==
 
 1. The Roman Numeral Date Converter Input Form.
-2. The Roman Numeral Date Converter Calculation Results.
 
 == Installation ==
 

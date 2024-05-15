@@ -3,7 +3,6 @@
 The Roman Numerals Date Converter can convert dates from Arabic numerals to Roman numerals and back. Get any date in Roman or Arabic numerals.
 
 ![Roman Numeral Date Converter Input Form](/assets/images/screenshot-1.png "Roman Numeral Date Converter Input Form")
-![Roman Numeral Date Converter Calculation Results](/assets/images/screenshot-2.png "Roman Numeral Date Converter Calculation Results")
 
 ## Installation
 
