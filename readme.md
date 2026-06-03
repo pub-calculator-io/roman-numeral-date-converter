@@ -1,6 +1,6 @@
 # Roman Numeral Date Converter Widget for WordPress
 
-The Roman Numerals Date Converter can convert dates from Arabic numerals to Roman numerals and back. Get any date in Roman or Arabic numerals.
+Instantly convert dates to Roman numerals and back with our free Roman Numeral Date Converter. Perfect for tattoos, weddings, birthdays, and historical dates.
 
 ![Roman Numeral Date Converter Input Form](/assets/images/screenshot-1.png "Roman Numeral Date Converter Input Form")
 
@@ -11,8 +11,8 @@ The Roman Numerals Date Converter can convert dates from Arabic numerals to Roma
 3. Activate the [Roman Numeral Date Converter](https://www.calculator.io/roman-numeral-date-converter/ "Roman Numeral Date Converter Homepage") plugin through the "Plugins" menu in WordPress.
 
 ## Usage
-* Add the shortcode `[ci_roman_numeral_date_converter]` to your page, post or sidebar.
-* Or add the following code: `<?php display_ci_roman_numeral_date_converter(); ?>` to your template where you would like the Roman Numeral Date Converter to appear.
+* Add the shortcode `[calcio_roman_numeral_date_converter]` to your page, post or sidebar.
+* Or add the following code: `<?php display_calcio_roman_numeral_date_converter(); ?>` to your template where you would like the Roman Numeral Date Converter to appear.
 
 ## Libraries in Use
 1. https://mathjs.org/
